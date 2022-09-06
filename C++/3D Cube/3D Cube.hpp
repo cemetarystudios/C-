@@ -11,3 +11,10 @@
 #include <stdio.h>
 
 #endif /* _D_Cube_hpp */
+
+
+
+class testclass
+{
+    int x;
+};
