@@ -1,6 +1,12 @@
 #include <iostream>
 
-
+struct Vector3D
+{
+    float x, y, z;
+    
+    Vector3D() = default;
+    
+};
 
 
 int main()
